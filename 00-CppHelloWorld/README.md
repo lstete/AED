@@ -4,4 +4,4 @@
 - 2023
 - 171.465-0
 - Stete Leonel
-- El compilador utilizado es el g++ 12.2.0 a través de la adaptación a windows de MinGW capaz de compilar código en C++ versión 23
+- El compilador utilizado es el g++ 12.2.0 a través de la adaptación a windows de MinGW, capaz de compilar código en C++ versión 23
